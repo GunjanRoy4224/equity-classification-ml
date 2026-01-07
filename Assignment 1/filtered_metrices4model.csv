@@ -1,0 +1,17 @@
+Ratio,Category,Justification
+EBITDA Margin,Profitability,Measures operating efficiency before financing and accounting effects
+PAT Margin (Net Profit Margin),Profitability,Represents final profitability available to equity shareholders
+Return on Equity (ROE),Profitability,Evaluates efficiency of shareholder capital utilization
+Return on Capital Employed (ROCE),Profitability,Assesses returns generated on total capital employed
+Net Profit Growth,Growth,Captures earnings momentum and scalability
+EPS Growth / Trend,Growth,Indicates earnings expansion and investor return potential
+EBITDA Margin CAGR,Growth,Shows long-term improvement in operating profitability
+PAT Margin CAGR,Growth,Reflects sustainability of net profitability improvement
+Debt-to-Equity Ratio,Leverage & Risk,Measures financial leverage and balance sheet risk
+Interest Coverage Ratio,Leverage & Risk,Assesses ability to service debt from operating profits
+Total Asset Turnover Ratio,Efficiency,Evaluates asset utilization efficiency
+Working Capital Turnover Ratio,Efficiency,Reflects operational efficiency and liquidity management
+Price-to-Earnings (P/E) Ratio,Valuation,Captures market expectations of growth and risk
+Price-to-Book (P/B) Ratio,Valuation,Identifies valuation relative to net asset value
+Discounted Cash Flow (DCF),Cash Flow & Valuation,Provides intrinsic value based on future cash flows
+Margin of Safety,Cash Flow & Valuation,Quantifies downside protection for investors
