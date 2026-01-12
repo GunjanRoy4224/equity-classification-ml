@@ -1,0 +1,30 @@
+Category,Metric,Value
+Profitability,EBITDA Margin,3.1467667835795092
+Profitability,PAT Margin (Net Profit Margin),2.6033690658499236
+Profitability,EBITDA Margin CAGR,0.3710094762429783
+Profitability,PAT Margin CAGR,7.027394929385755
+Profitability,Return on Equity (ROE),1.0134615384615384
+Profitability,Return on Assets (ROA),0.8107692307692307
+Profitability,Return on Capital Employed (ROCE),1.1840148698884758
+Profitability,Gross Profit Margin (GPM),72.50901546213507
+Profitability,Net Profit Growth,17.11111111111111
+Profitability,EPS Growth / Trend,17.111111111111114
+Leverage/Solvency,Leverage Ratio (Debt vs Equity),1.25
+Leverage/Solvency,Debt/Equity Ratio,0.03461538461538462
+Leverage/Solvency,Interest Coverage Ratio,4.136363636363637
+Efficiency,Fixed Asset Turnover Ratio,2.8115277777777776
+Efficiency,Working Capital Turnover Ratio,4.217291666666667
+Efficiency,Total Assets Turnover Ratio,0.31143076923076923
+Efficiency,Inventory Turnover Ratio,9.63952380952381
+Efficiency,Inventory Days,37.86494096724793
+Efficiency,Receivables Turnover Ratio,5.623055555555555
+Efficiency,Days Sales Outstanding (DSO),64.91132737242503
+Valuation,Price to Earnings (P/E) Ratio,43.93263757115749
+Valuation,Price to Book (P/B) Ratio,0.4452403846153846
+Valuation,Price to Sales (P/S) Ratio,1.1437286963394755
+Valuation,Earnings Per Share (EPS),5.576719576719577
+Valuation,Book Value per Share,550.2645502645503
+Valuation Model,Discounted Cash Flow (DCF),7254.911190511084
+Valuation Model,Intrinsic Value per Share,76.77154698953528
+Valuation Model,Fair Value Band,"(69.09439229058175, 84.44870168848881)"
+Valuation Model,Margin of Safety,-219.12864805680664
