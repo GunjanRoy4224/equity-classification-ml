@@ -1,4 +1,4 @@
-# Winter in Data Science (WiDS) ❄️📊
+# Winter in Data Science (WiDS) 
 
 Welcome to the **Winter in Data Science (WiDS)** repository! This project contains various assignments, datasets, and notebooks focusing on fundamental data science concepts, problem formulation, and equity classification models.
 
@@ -14,7 +14,7 @@ The repository is organized into different assignment folders:
   - Contains: `Problem formulation.pdf`.
 
 - **Assignment 3:** Equity Classification
-  - Focuses on classifying equities using engineered features.
+  - Focuses EDA and Feature Engineering.
   - Contains: `WIDS_Equity_Classification.ipynb`, `raw_dataset.csv`, `engineered_features.csv`.
 
 ## 🚀 Getting Started
